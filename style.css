@@ -6,11 +6,11 @@ img {
 }
 
 body {
-    background-color: floralwhite;
+    background-color: whitesmoke;
 }
 
 header {
-    background-color:chocolate;
+    background-color:grey;
     padding: 20px;
     color: #ffffff;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -43,11 +43,11 @@ a {
 }
 
 #about-me {
-    background-color:chocolate;
+    background-color:grey;
     padding: 20px;
     color: #ffffff;
     display: inline-block;
-    width: 1010px;
+    width: 1225px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
 
@@ -61,11 +61,11 @@ a {
 }
 
 #work {
-    background-color:chocolate;
+    background-color:grey;
     padding: 20px;
     color: #ffffff;
     display: inline-block;
-    width: 1010px;
+    width: 1225px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
 }
 
@@ -85,25 +85,25 @@ a {
   /* work section ends here*/
 
 #contact {
-    background-color:chocolate;
+    background-color:grey;
     padding: 20px;
     color: #ffffff;
     display: inline-block;
-    width: 1010px;
+    width: 1225px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
 }
 
-#resume {
-   background-color:chocolate;
-   padding: 20px;
-   color: #ffffff;
-   display: inline-block;
-   width: 1010px;
-   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+ h4 {
+    text-orientation: sideways-right;
+    text-decoration: underline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+//#resume {
 }
 
 p  {
-    color: maroon;
+    color: black;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
