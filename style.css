@@ -82,6 +82,14 @@ a {
     padding-left: 20px;
     padding-right: 20px;
   }
+
+  #work-section2 {
+    width: 200px;
+    height: 200px;
+    border: 10px solid gold;
+    background-image: url(/calc.png);
+    background-position: right;
+  }
   /* work section ends here*/
 
 #contact {
