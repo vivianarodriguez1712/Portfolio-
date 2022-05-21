@@ -65,6 +65,13 @@ header nav ul li {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
 }
 
+img {
+    height: 495px;
+    background-image: url("/resumeviv.png");
+    background-position: center;
+    background-size: cover;
+}
+
 .container {
     position: relative;
   }
@@ -99,6 +106,15 @@ header nav ul li {
     display: inline-block;
     width: 1225px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+}
+
+#resume {
+    background-color:grey;
+    padding: 20px;
+    color: #ffffff;
+    display: inline-block;
+    width: 1225px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
 }
 
  h4 {
