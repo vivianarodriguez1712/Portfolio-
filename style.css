@@ -38,10 +38,6 @@ header nav ul li {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-}
-
 #about-me {
     background-color:grey;
     padding: 20px;
@@ -83,15 +79,17 @@ a {
     padding-right: 20px;
   }
 
-  .c {
-    height: 200px;
-    width: 200px;
-  }
-
-  .LW {
-    height: 200px;
-    width: 200px; 
-  }
+  .work-sectionSecondary {
+    margin-top: 295px;
+    margin-left: 20px;
+    max-width: 200px;
+    max-height: 200px;
+    border: 10px solid gold;
+ }
+ .work-sectionSecondary img{
+    max-width: 200px;
+    max-height: 200px;
+ }
   /* work section ends here*/
 
 #contact {
@@ -109,7 +107,8 @@ a {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-//#resume {
+a {
+    color: black;
 }
 
 p  {
