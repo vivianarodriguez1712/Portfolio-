@@ -11,4 +11,4 @@ In this assignment I learned how to advanced CSS, flex box, how to create naviga
 ## Screenshot 
 
 
-![Picture of my Portfolio](./assets/images/brand-awareness.png "Logo Title Text 1") 
+![Picture of my Portfolio](./assets/images/portfoliopic.png "Logo Title Text 1") 
